@@ -7,3 +7,5 @@ decision_tree5
 lab3/
 .student.zip_old
 *.html
+__pycache__
+**/__pycache__
