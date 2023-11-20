@@ -1,3 +1,9 @@
 pandas
 numpy
 jupyterlab
+scikit-learn
+statsmodels
+graphviz
+matplotlib
+seaborn
+scipy
